@@ -1,0 +1,12 @@
+.appointment-container{
+    border: 1px solid aqua;
+    border-radius: 5px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 10px;
+}
+
+.form-row{
+    margin-top: 15px;
+    margin-bot: 15px;
+}
